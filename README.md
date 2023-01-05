@@ -62,17 +62,17 @@
 
 <div id="badges" align="center">
   <a href="https://github.com/MrTamilKiD">
-    <img src="https://github-readme-stats.vercel.app/api?username=Lastdrogs&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="LinkedIn Badge"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=MrTamilKiD&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="LinkedIn Badge"/>
   </a>
   <br>
   <br>
   <a href="https://github.com/Lastdrogs">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lastdrogs&bg_color=10,e96443,904e95&langs_count=10&hide_border=true&show_icons=true&title_color=fff&text_color=fff" alt="Youtube Badge"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrTamilKiD&bg_color=10,e96443,904e95&langs_count=10&hide_border=true&show_icons=true&title_color=fff&text_color=fff" alt="Youtube Badge"/>
   </a>
 <br>
   <br>
   <a href="https://github.com/MrTamilKiD">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=Lastdrogs&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Youtube Badge"/>
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=MrTamilKiD&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Youtube Badge"/>
   </a>
 </div>
 
