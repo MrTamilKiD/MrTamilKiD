@@ -1,20 +1,11 @@
-### Hi there 👋
-
-<!--
-**MrTamilKiD/MrTamilKiD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-
-- 
-
-
 <div id="header" align="center">
-  <a href="https://github.com/Lastdrogs">
+  <a href="https://github.com/MrTamilKiD">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   </a>
 </div>
 
 <div align="center">
-  <a href="https://t.me/tamil_kid">
+  <a href="https://t.me/Mrtamil_kid">
     <img src="https://img.shields.io/badge/Telegram-red?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram Badge"/>
   </a>
 
@@ -24,10 +15,10 @@ Here are some ideas to get you started:
 
 
 <div id="badges" align="center" width="170px" height="24">
-  <a href="https://github.com/Lastdrogs">
+  <a href="https://github.com/MrTamilKiD">
     <img src="https://komarev.com/ghpvc/?username=kunsh13&label=PROFILE%20VISITORS&color=blueviolet&style=flat-square" alt="views Badge"/>
   </a>
-  <a href="https://github.com/Lastdrogs">
+  <a href="https://github.com/MrTamilKiD">
     <img src="https://komarev.com/ghpvc/?username=kunsh13&style=flat-square&color=blue" alt="avipatilpro" alt="Youtube Badge"/>
   </a>
 </div>
@@ -41,7 +32,7 @@ Here are some ideas to get you started:
 
 <br>
   <div align="center" >
-  <a href="https://github.com/Lastdrogs">
+  <a href="https://github.com/MrTamilKiD">
     <img  width="120px" src="https://www.gstatic.com/telegram/img/branding/telegramlogo/svg/telegramlogo.svg" alt="Telegram Badge"/>
   </a>
   </div>
@@ -70,7 +61,7 @@ Here are some ideas to get you started:
 
 
 <div id="badges" align="center">
-  <a href="https://github.com/Lastdrogs">
+  <a href="https://github.com/MrTamilKiD">
     <img src="https://github-readme-stats.vercel.app/api?username=Lastdrogs&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="LinkedIn Badge"/>
   </a>
   <br>
@@ -80,7 +71,7 @@ Here are some ideas to get you started:
   </a>
 <br>
   <br>
-  <a href="https://github.com/Lastdrogs">
+  <a href="https://github.com/MrTamilKiD">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=Lastdrogs&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Youtube Badge"/>
   </a>
 </div>
