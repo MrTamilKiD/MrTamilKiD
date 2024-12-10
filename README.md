@@ -16,10 +16,10 @@
 
 <div id="badges" align="center" width="170px" height="24">
   <a href="https://github.com/MrTamilKiD">
-    <img src="https://komarev.com/ghpvc/?username=kunsh13&label=PROFILE%20VISITORS&color=blueviolet&style=flat-square" alt="views Badge"/>
+    <img src="https://komarev.com/ghpvc/?username=MrTamilKiD&label=PROFILE%20VISITORS&color=blueviolet&style=flat-square" alt="views Badge"/>
   </a>
   <a href="https://github.com/MrTamilKiD">
-    <img src="https://komarev.com/ghpvc/?username=kunsh13&style=flat-square&color=blue" alt="avipatilpro" alt="Youtube Badge"/>
+    <img src="https://komarev.com/ghpvc/?username=MrTamilKiD&style=flat-square&color=blue" alt="avipatilpro" alt="Youtube Badge"/>
   </a>
 </div>
 
