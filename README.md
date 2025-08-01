@@ -1,80 +1,94 @@
-<div id="header" align="center">
-  <a href="https://github.com/MrTamilKiD">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  </a>
-</div>
+# 👋 Hey, I'm TamilXD!
 
-<div align="center">
-  <a href="https://telegram.me/MrTamilKiD">
-    <img src="https://img.shields.io/badge/Telegram-red?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram Badge"/>
-  </a>
+🎓 **Self-Learning Full Stack Developer** | 🐍 Python Backend Specialist | 🤖 Telegram Bot Creator  
+⚡️ **Electrical & Electronics Engineering (EEE)** Graduate  
+💻 Passionate about building **scalable web applications**, automating workflows with **Telegram bots**, and diving into cutting-edge tech stacks.
 
-</div>
+---
 
+## 🚀 About Me
 
+- 🔭 **Currently Exploring**: Full Stack Development with **Python (Flask/FastAPI)**, **JavaScript (React)**, and **DevOps** practices.
+- 🤖 **Specialization**: Crafting **Telegram bots** for automation using libraries like `pyrogram`, `Telethon`, and `python-telegram-bot`.
+- ⚡️ **Background**: Leveraging my **EEE** expertise to approach coding with a problem-solving mindset.
+- 🌱 **Learning Goals**: Mastering **cloud platforms (AWS, Azure)**, **database management (MongoDB, PostgreSQL)**, and **CI/CD pipelines**.
+- ❤️ **Passion**: Automating repetitive tasks, building user-centric applications, and contributing to innovative tech solutions.
 
+---
 
-<div id="badges" align="center" width="170px" height="24">
-  <a href="https://github.com/MrTamilKiD">
-    <img src="https://komarev.com/ghpvc/?username=MrTamilKiD&label=PROFILE%20VISITORS&color=blueviolet&style=flat-square" alt="views Badge"/>
-  </a>
-  <a href="https://github.com/MrTamilKiD">
-    <img src="https://komarev.com/ghpvc/?username=MrTamilKiD&style=flat-square&color=blue" alt="avipatilpro" alt="Youtube Badge"/>
-  </a>
-</div>
+## 🛠️ Tech Stack
 
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=3500&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hey!+It's+Happy+%F0%9F%91%8B%F0%9F%8F%BB;I'm+a+student,+coder+and+a+developer!+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;⚡+Fun+fact+I'm+a+noob+coder+%F0%9F%87%AE%F0%9F%87%B3;I+am+from+India+%F0%9F%93%88;Please+Support+and+Follow+%E2%9A%99%EF%B8%8F" alt="Happy" width="650" height="55">
+### Frontend & Tools
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 
-<h3 align="center">🔗Connect with me: </h3>
-<!--[<img align="left" alt="TG" | telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][TELEGRAM] -->
+### Databases & APIs
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF5733?style=flat&logo=rest&logoColor=white)
 
+### DevOps & Platforms
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-<br>
-  <div align="center" >
-  <a href="https://github.com/MrTamilKiD">
-    <img  width="120px" src="https://www.gstatic.com/telegram/img/branding/telegramlogo/svg/telegramlogo.svg" alt="Telegram Badge"/>
-  </a>
-  </div>
-<br>
+---
 
-<br>
+## 🌟 Featured Projects
 
+### [TeleSMSBot](https://telegram.me/TeleSMS_Bot)
+A sophisticated **Telegram bot** for automating Telegram account transactions, featuring **UPI** and **crypto payment** integration.  
+*Note*: This is a **closed-source** project, not publicly available on GitHub.  
+- **Tech Stack**: Python, Telegram Bot API, Payment Gateways  
+- **Features**: Automated account management, secure payment processing  
+- 🔗 [Try the Bot](https://telegram.me/TeleSMS_Bot)
 
+### [File To Link/Stream Bot](https://telegram.me/KR_File2link_Bot)
+A powerful **Telegram bot** that converts files (videos, audio, stickers) into downloadable links using third-party servers.  
+*Note*: This is a **closed-source** project, not publicly available on GitHub.  
+- **Tech Stack**: Python, Telegram Bot API, Third-Party APIs  
+- **Features**: File conversion, streaming support, user-friendly interface  
+- 🔗 [Try the Bot](https://telegram.me/KR_File2link_Bot)
 
-<h2 align="center">🧬 Languages and Tools: </h2>
-<p align="center"><code><a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a></code> <code><a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a></code> <code><a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a></code> <code><a href="https://www.adobe.com/products/premiere.html" target="_blank"><img src="https://seeklogo.com/images/V/visual-studio-code-logo-284BC24C39-seeklogo.com.png" alt="Visual Studio Code" width="40" height="40"/></a></code> <code><a href="https://www.w3.org/html/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png?w=360" alt="html5" width="40" height="40"/></a></code> <code><a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/illustrator.svg" alt="illustrator" width="40" height="40"/></a></code> <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a></code> <code><a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a></code> <code><a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/ps_appicon.svg" alt="Photoshop" width="40" height="40"/></a></code> </p>
+### [TG-Remove-All-Members](https://github.com/MrTamilKiD/TG-Remove-all-members)
+An open-source **Telegram bot** designed to efficiently remove all members from a Telegram group.  
+- **Tech Stack**: Python, Telegram Bot API  
+- **Features**: Bulk member removal, admin authentication  
+- 🔗 [View Repository](https://github.com/MrTamilKiD/TG-Remove-all-members)
 
+---
 
+ ## 📈 My Github Stats! 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrTamilKiD&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MrTamilKiD&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MrTamilKiD&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MrTamilKiD&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MrTamilKiD&theme=github_dark&utcOffset=8)
+---
 
+## 📬 Connect with Me
 
+- 📧 **Email**: [tamilxd.dev@gmail.com](mailto:tamilxd.dev@gmail.com)
+- 💬 **Telegram**: [@MrTamilKiD](https://telegram.me/MrTamilKiD)
+- 💼 **LinkedIn**: [linkedin.com/in/tamilxd](https://linkedin.com/in/tamilxd)
+- 🐦 **X**: [@MrTamilKiD](https://x.com/MrTamilKiD)
 
- 
+---
 
+## 💡 Why I Code
 
+> *“Automate the boring stuff, innovate the exciting stuff!”*
 
+I’m driven by the thrill of turning ideas into functional applications and simplifying workflows through automation. Whether it’s building a Telegram bot or deploying a web app, I’m always eager to learn, collaborate, and contribute to the tech community.
 
-<br><br>
- 
-<h2 align="center"> 📊 ꜱᴛᴀᴛꜱ: </h2>
-
-
-
-<div id="badges" align="center">
-  <a href="https://github.com/MrTamilKiD">
-    <img src="https://github-readme-stats.vercel.app/api?username=MrTamilKiD&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="LinkedIn Badge"/>
-  </a>
-  <br>
-  <br>
-  <a href="https://github.com/MrTamilKiD">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrTamilKiD&bg_color=10,e96443,904e95&langs_count=10&hide_border=true&show_icons=true&title_color=fff&text_color=fff" alt="Youtube Badge"/>
-  </a>
-<br>
-  <br>
-  <a href="https://github.com/MrTamilKiD">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=MrTamilKiD&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Youtube Badge"/>
-  </a>
-</div>
-
-
-
+Let’s connect to build something awesome together! 🚀
