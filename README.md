@@ -1,94 +1,302 @@
-# 👋 Hey, I'm TamilXD!
+<div align="center">
 
-🎓 **Self-Learning Full Stack Developer** | 🐍 Python Backend Specialist | 🤖 Telegram Bot Creator  
-⚡️ **Electrical & Electronics Engineering (EEE)** Graduate  
-💻 Passionate about building **scalable web applications**, automating workflows with **Telegram bots**, and diving into cutting-edge tech stacks.
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=TamilXD&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Developer%20•%20AI%20Enthusiast%20•%20Prompt%20Engineer&descAlignY=52&descSize=18"/>
 
----
+<!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=600&lines=Building+Scalable+Backend+Systems+%F0%9F%9A%80;Crafting+AI-Powered+Solutions+%F0%9F%A4%96;Prompt+Engineering+Expert+%E2%9C%A8;Telegram+Bot+Architect+%F0%9F%92%AC)](https://git.io/typing-svg)
 
-## 🚀 About Me
+<!-- Profile Views & Followers -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=MrTamilKiD&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+  <a href="https://github.com/MrTamilKiD?tab=followers">
+    <img src="https://img.shields.io/github/followers/MrTamilKiD?label=Followers&style=for-the-badge&color=blue" alt="Followers"/>
+  </a>
+</p>
 
-- 🔭 **Currently Exploring**: Full Stack Development with **Python (Flask/FastAPI)**, **JavaScript (React)**, and **DevOps** practices.
-- 🤖 **Specialization**: Crafting **Telegram bots** for automation using libraries like `pyrogram`, `Telethon`, and `python-telegram-bot`.
-- ⚡️ **Background**: Leveraging my **EEE** expertise to approach coding with a problem-solving mindset.
-- 🌱 **Learning Goals**: Mastering **cloud platforms (AWS, Azure)**, **database management (MongoDB, PostgreSQL)**, and **CI/CD pipelines**.
-- ❤️ **Passion**: Automating repetitive tasks, building user-centric applications, and contributing to innovative tech solutions.
+<!-- Skill Badges -->
+<p>
+  <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-Pro-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI%20%2F%20ML-Enthusiast-FF6F61?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-Expert-8B5CF6?style=for-the-badge&logo=openai&logoColor=white"/>
+</p>
 
----
-
-## 🛠️ Tech Stack
-
-### Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-
-### Frontend & Tools
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-
-### Databases & APIs
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF5733?style=flat&logo=rest&logoColor=white)
-
-### DevOps & Platforms
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+</div>
 
 ---
 
-## 🌟 Featured Projects
+## ⚡ whoami
 
-### [TeleSMSBot](https://telegram.me/TeleSMS_Bot)
-A sophisticated **Telegram bot** for automating Telegram account transactions, featuring **UPI** and **crypto payment** integration.  
-*Note*: This is a **closed-source** project, not publicly available on GitHub.  
-- **Tech Stack**: Python, Telegram Bot API, Payment Gateways  
-- **Features**: Automated account management, secure payment processing  
-- 🔗 [Try the Bot](https://telegram.me/TeleSMS_Bot)
-
-### [File To Link/Stream Bot](https://telegram.me/KR_File2link_Bot)
-A powerful **Telegram bot** that converts files (videos, audio, stickers) into downloadable links using third-party servers.  
-*Note*: This is a **closed-source** project, not publicly available on GitHub.  
-- **Tech Stack**: Python, Telegram Bot API, Third-Party APIs  
-- **Features**: File conversion, streaming support, user-friendly interface  
-- 🔗 [Try the Bot](https://telegram.me/KR_File2link_Bot)
-
-### [TG-Remove-All-Members](https://github.com/MrTamilKiD/TG-Remove-all-members)
-An open-source **Telegram bot** designed to efficiently remove all members from a Telegram group.  
-- **Tech Stack**: Python, Telegram Bot API  
-- **Features**: Bulk member removal, admin authentication  
-- 🔗 [View Repository](https://github.com/MrTamilKiD/TG-Remove-all-members)
+```python
+class TamilXD:
+    def __init__(self):
+        self.name = "TamilXD"
+        self.role = "Backend Developer & AI Enthusiast"
+        self.location = "India 🇮🇳"
+        self.education = "Electrical & Electronics Engineering (EEE)"
+        
+        self.core_skills = ["Backend Development", "API Design", "Database Architecture"]
+        self.ai_skills = ["Prompt Engineering", "LLM Integration", "AI Automation"]
+        self.specialty = "Telegram Bots & Automation Systems"
+        
+    def current_focus(self):
+        return ["Building AI-powered applications", "Mastering LLM APIs", "Cloud Native Development"]
+    
+    def fun_fact(self):
+        return "I automate everything that can be automated 🤖"
+```
 
 ---
 
- ## 📈 My Github Stats! 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrTamilKiD&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MrTamilKiD&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MrTamilKiD&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MrTamilKiD&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MrTamilKiD&theme=github_dark&utcOffset=8)
+## 🛠️ Tech Arsenal
+
+<details>
+<summary><b>🔥 Click to expand my full tech stack</b></summary>
+<br>
+
+### 💻 Languages & Runtimes
+<p>
+  <img src="https://skillicons.dev/icons?i=python,nodejs,js,ts,php&theme=dark" alt="Languages"/>
+</p>
+
+### ⚙️ Backend Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,express&theme=dark" alt="Frameworks"/>
+</p>
+
+### 🤖 AI & Machine Learning
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/>
+  <img src="https://img.shields.io/badge/Claude%20AI-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+</p>
+
+### 🗃️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis&theme=dark" alt="Databases"/>
+</p>
+
+### ☁️ DevOps & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,aws,git&theme=dark" alt="DevOps"/>
+</p>
+
+### 🤖 Bot Development
+<p>
+  <img src="https://img.shields.io/badge/Pyrogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Pyrogram"/>
+  <img src="https://img.shields.io/badge/Telethon-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telethon"/>
+  <img src="https://img.shields.io/badge/Discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord.py"/>
+</p>
+
+</details>
+
 ---
 
-## 📬 Connect with Me
+## 🎯 What I Do
 
-- 📧 **Email**: [tamilxd.dev@gmail.com](mailto:tamilxd.dev@gmail.com)
-- 💬 **Telegram**: [@MrTamilKiD](https://telegram.me/MrTamilKiD)
-- 💼 **LinkedIn**: [linkedin.com/in/tamilxd](https://linkedin.com/in/tamilxd)
-- 🐦 **X**: [@MrTamilKiD](https://x.com/MrTamilKiD)
+<table>
+<tr>
+<td width="50%">
+
+### 🔧 Backend Development
+- RESTful & GraphQL APIs
+- Microservices Architecture
+- Database Design & Optimization
+- Authentication & Security
+
+</td>
+<td width="50%">
+
+### 🤖 AI & Automation
+- Prompt Engineering for LLMs
+- AI-powered Applications
+- Chatbot Development
+- Workflow Automation
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 💬 Bot Development
+- Telegram Bots (Pyrogram/Telethon)
+- Payment Gateway Integration
+- Real-time Messaging Systems
+- User Management Systems
+
+</td>
+<td width="50%">
+
+### ☁️ DevOps
+- Docker Containerization
+- CI/CD Pipelines
+- Cloud Deployment (AWS/VPS)
+- Server Management & Scaling
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<!-- Project Cards -->
+
+<a href="https://telegram.me/TeleSMS_Bot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrTamilKiD&repo=MrTamilKiD&theme=radical&hide_border=true&title_color=A855F7&icon_color=F97316&bg_color=0D1117" alt="TeleSMS"/>
+</a>
+
+</div>
+
+### 💎 TeleSMS Platform
+> *Full-stack SaaS with AI-powered features*
+
+```
+🔥 Production-grade web platform for Telegram account management
+```
+
+| Tech | Stack |
+|------|-------|
+| **Backend** | `Node.js` `Express` `MongoDB` |
+| **Frontend** | `React` `TypeScript` `TailwindCSS` |
+| **AI Features** | `OpenAI API` `Prompt Engineering` |
+| **Payments** | `BharatPe` `Cryptomus` `UPI` |
+
+---
+
+### 🤖 [TeleSMSBot](https://telegram.me/TeleSMS_Bot)
+> *AI-enhanced Telegram automation bot*
+
+Production bot with automated account management, smart payment processing, and AI-assisted user support.
+
+| Component | Technology |
+|-----------|------------|
+| **Core** | Python, Pyrogram, MongoDB |
+| **AI** | GPT Integration, Auto-responses |
+| **Payments** | UPI, Crypto Gateways |
+
+---
+
+### 📁 [File To Link Bot](https://telegram.me/KR_File2link_Bot)
+> *High-speed file streaming service*
+
+Converts files to streamable links instantly. Supports videos, audio, documents with CDN acceleration.
+
+---
+
+### 🧹 [TG-Remove-All-Members](https://github.com/MrTamilKiD/TG-Remove-all-members)
+> *Open-source group management tool*
+
+```bash
+⭐ If you find this useful, drop a star!
+```
+
+| Feature | Description |
+|---------|-------------|
+| Bulk Operations | Remove all members efficiently |
+| Authentication | Admin-only access control |
+| Stack | Python + Telethon |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<!-- GitHub Stats Cards -->
+<img src="https://github-readme-stats.vercel.app/api?username=MrTamilKiD&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=F97316&text_color=FFFFFF" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MrTamilKiD&theme=radical&hide_border=true&background=0D1117&ring=A855F7&fire=F97316&currStreakLabel=FFFFFF" alt="GitHub Streak" height="165"/>
+
+<!-- Activity Graph -->
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MrTamilKiD&custom_title=Contribution%20Graph&bg_color=0D1117&color=A855F7&line=F97316&point=FFFFFF&area=true&hide_border=true)
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrTamilKiD&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7" alt="Top Languages"/>
+
+</div>
+
+---
+
+## 🎨 Prompt Engineering Showcase
+
+```markdown
+💡 I craft prompts that make AI do exactly what you need:
+
+✨ System Design Prompts    → Complex workflow automation
+✨ Code Generation          → Production-ready code from descriptions  
+✨ Data Extraction          → Structured outputs from unstructured data
+✨ Conversational AI        → Natural, context-aware chatbots
+✨ Creative Applications    → Content generation, summarization, analysis
+```
+
+<div align="center">
+
+**Currently exploring**: `GPT-4` `Claude 3` `Gemini Pro` `LangChain` `Vector Databases`
+
+</div>
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+
+<!-- Social Badges -->
+<a href="mailto:tamilxd.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://telegram.me/MrTamilKiD">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+</a>
+<a href="https://linkedin.com/in/tamilxd">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://x.com/MrTamilKiD">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+</a>
+
+</div>
 
 ---
 
 ## 💡 Why I Code
 
-> *“Automate the boring stuff, innovate the exciting stuff!”*
+<div align="center">
 
-I’m driven by the thrill of turning ideas into functional applications and simplifying workflows through automation. Whether it’s building a Telegram bot or deploying a web app, I’m always eager to learn, collaborate, and contribute to the tech community.
+```
+🚀 "Automate the boring stuff, innovate the exciting stuff!" 🚀
+```
 
-Let’s connect to build something awesome together! 🚀
+</div>
+
+I'm obsessed with building systems that **scale infinitely** and **break never**. From designing database schemas to prompt engineering AI models — I love solving problems that seem impossible at first.
+
+My sweet spot? **Backend systems** that power **AI-driven applications**. If it involves APIs, automation, or artificial intelligence — I'm in.
+
+---
+
+<div align="center">
+
+### 🤝 Open for Collaboration
+
+**Backend Development** • **AI Integration** • **Bot Development** • **Prompt Engineering**
+
+<br>
+
+*Let's build something legendary together!* ✨
+
+<br>
+
+<!-- Snake Animation -->
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+</div>
+
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
