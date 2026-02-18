@@ -209,15 +209,11 @@ Converts files to streamable links instantly. Supports videos, audio, documents 
 
 <div align="center">
 
-<!-- GitHub Stats Cards -->
-<img src="https://github-readme-stats.vercel.app/api?username=MrTamilKiD&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=F97316&text_color=FFFFFF" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MrTamilKiD&theme=radical&hide_border=true&background=0D1117&ring=A855F7&fire=F97316&currStreakLabel=FFFFFF" alt="GitHub Streak" height="165"/>
-
-<!-- Activity Graph -->
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MrTamilKiD&custom_title=Contribution%20Graph&bg_color=0D1117&color=A855F7&line=F97316&point=FFFFFF&area=true&hide_border=true)
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrTamilKiD&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7" alt="Top Languages"/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrTamilKiD&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MrTamilKiD&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MrTamilKiD&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MrTamilKiD&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MrTamilKiD&theme=github_dark&utcOffset=5.5)
 
 </div>
 
